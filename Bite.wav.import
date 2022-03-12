@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Bite.wav-0d0be7ed3c8308c871fb00d69f77be66.sample"
+
+[deps]
+
+source_file="res://05C 2D Snake Game Assets/Bite.wav"
+dest_files=[ "res://.import/Bite.wav-0d0be7ed3c8308c871fb00d69f77be66.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
